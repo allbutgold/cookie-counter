@@ -1,0 +1,16 @@
+.home {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  h1 {
+    text-align: center;
+    align-items: center;
+    margin: 50px 100px 50px 100px;
+  }
+  div {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+}
